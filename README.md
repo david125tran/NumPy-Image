@@ -1,6 +1,6 @@
 # NumPy-Image
   
-A very short and simple script using NumPy.
+A very short and simple script using NumPy & matplotlib.
   
 This converts a colored image to black and white.  
   
