@@ -9,7 +9,7 @@ The background color of images consists of three-integer color tuples of an RGB 
 I then use the matplotlib library to show the image converted to black and white.  
   
 Some Basic Colors:
-Color	(Red,Green,Blue) value  
+Color	(Red, Green, Blue) value  
 Black	(0,0,0)  
 Red	(255,0,0)  
 Green	(0,255,0)  
